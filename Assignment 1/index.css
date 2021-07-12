@@ -1,0 +1,37 @@
+body {
+    
+    background-color: rgb(241, 216, 179);
+}
+
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-style:oblique;
+}
+
+h3{
+    color: rgb(245, 242, 240);
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  color:#701a1a;
+  width: 200px;
+  background:transparent;
+  border-width:2px;
+  border-style: solid;
+  border-color: #454545;
+  position:relative;
+  margin:1em;
+  display:inline-block;
+  padding:0.5em 1em;
+  transition:all 0.3s ease-in-out;
+  text-align:center;
+  font-family:comfortaa;
+  font-weight:bold;
+  cursor: pointer;
+}
